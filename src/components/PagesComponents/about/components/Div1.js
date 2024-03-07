@@ -35,10 +35,10 @@ function Div1() {
             <p>email:</p>
           </div>
           <div className="flex max-w-[140px] flex-col flex-nowrap gap-1 text-[#424040]">
-            <p>10-9-2006</p>
-            <p>{new Date().getFullYear() - '2006'}</p>
+          <p>10-9-1999</p>
+            <p>{new Date().getFullYear() - '1999'}</p>
 
-            <p className="s400:break-words">haseebsiddiqui1965@gmail.com</p>
+            <p className="s400:break-words">dontreveal@gmail.com</p>
           </div>
         </div>
         <div className="flex flex-row gap-[2rem] s400:gap-[4%]">
@@ -55,8 +55,7 @@ function Div1() {
       <hr className="border-gray-400" />
       <div className="py-9">
         <a
-          href="/cv/abdul-haseeb.pdf"
-          download="abdul-haseeb-cv.pdf"
+          href="#"
           className="rounded-full bg-white !py-4 !px-10 font-medium"
         >
           Download CV

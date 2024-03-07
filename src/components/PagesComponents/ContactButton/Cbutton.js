@@ -11,8 +11,7 @@ const Cbutton = () => {
   const linkClick = () => {
     setOpen(false);
     const link = document.createElement('a');
-    link.href = '/cv/abdul-haseeb.pdf';
-    link.download = 'abdul-haseeb-cv.pdf';
+    link.href = '#';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

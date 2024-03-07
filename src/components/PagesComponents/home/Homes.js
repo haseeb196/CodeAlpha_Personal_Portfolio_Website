@@ -36,7 +36,7 @@ const Homes = () => {
 
         <div className="mt-5 flex gap-8 lg:!justify-start sg:flex-row sg:justify-center">
           <a
-            href="https://www.facebook.com/haseeb.siddiqui.75098"
+            href="#"
             rel="noreferrer"
             aria-label="facebook"
             target={'_blank'}
@@ -47,7 +47,7 @@ const Homes = () => {
             />
           </a>
           <a
-            href="https://twitter.com/Abdul_Haseeb093"
+            href="#"
             rel="noreferrer"
             aria-label="twitter"
             target={'_blank'}
