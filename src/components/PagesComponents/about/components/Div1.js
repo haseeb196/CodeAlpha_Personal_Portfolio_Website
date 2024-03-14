@@ -35,8 +35,8 @@ function Div1() {
             <p>email:</p>
           </div>
           <div className="flex max-w-[140px] flex-col flex-nowrap gap-1 text-[#424040]">
-          <p>10-9-1999</p>
-            <p>{new Date().getFullYear() - '1999'}</p>
+          <p>10-9-2006</p>
+            <p>{new Date().getFullYear() - '2006'}</p>
 
             <p className="s400:break-words">dontreveal@gmail.com</p>
           </div>
